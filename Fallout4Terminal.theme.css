@@ -460,7 +460,7 @@ body {
  
   --show-original-title: 0; /* Whether you want to show discords original title (0 means no, 1 means yes) */
   --show-custom-title: 1; /* Whether you want to show a custom title (0 means no, 1 means yes) */
-  --custom-title-text: "Mitnic Industries"; /* The custom text you want to display */
+  --custom-title-text: "Mitnic Industries™"; /* The custom text you want to display */
   --custom-title-font-size: 16px; /* The size in pixels of the custom title text */
   --custom-title-font-weight: bold; /* The font "weight" of the custom title text. For reference: https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight */
   --custom-title-margin-top: 0px; /* The distance from the top of the window to the custom title text */
